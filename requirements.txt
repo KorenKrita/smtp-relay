@@ -1,0 +1,3 @@
+aiosmtpd==1.2.2
+atpublic==2.1.2
+typing-extensions==3.7.4.3
